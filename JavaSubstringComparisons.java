@@ -15,9 +15,10 @@ public class JavaSubstringComparisons {
                 temp++;
             }
             Arrays.sort(arr);
-            System.out.println(arr[0]+"\n"+arr[arr.length-1]);
+            System.out.println(arr[0] + "\n" + arr[arr.length - 1]);
         } catch (Exception e) {
             // TODO: handle exception
+            System.out.println(e);
         }
     }
 }

@@ -1,5 +1,4 @@
 import java.util.*;
-import java.lang.Math;
 
 class JavaDatatypes_hackerrank {
     public static void main(String[] argh) {
